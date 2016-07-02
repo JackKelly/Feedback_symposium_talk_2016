@@ -2,11 +2,10 @@ This repository holds the source code for my slides on "Does
 disaggregated electricity feedback reduce domestic electricity
 consumption? A systematic review of the literature" presented as part
 of the
-[3rd International NILM Workshop](http://nilmworkshop.org/2016/index.html)
-in Vancouver, Canada on Saturday 14th May 2016.
+Energy Feedback Symposium in Edinburgh on the 4th and 5th July 2016.
 
 If you just want to view this presentation, just point your browser to
-[http://jackkelly.github.io/NILM_Workshop_talk_2016](http://jackkelly.github.io/NILM_Workshop_talk_2016)
+[http://jackkelly.github.io/Feedback_symposium_talk_2016](http://jackkelly.github.io/Feedback_symposium_talk_2016)
 
 You do not need to clone this repository just to view the
 presentation.
